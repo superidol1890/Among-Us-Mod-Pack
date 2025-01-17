@@ -1,5 +1,4 @@
 An Among Us Mod Pack Made by me.
-This Mod Pack has Been made by Me.
 
 However this mod pack does not support all among us devices :
 Steam : Yes
