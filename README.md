@@ -5,12 +5,18 @@ However this mod pack does not support all among us devices :
 Steam : Yes
 
 Epic Games : Yes
+
 Itch.io : Yes
+
 Microsoft store : Yes
-Mobile : In developing for android , but as of now no.
-Console : No
+
+Cracked : Yes 
+
 Beta : No
-Cracked : Yes
+
+Mobile : No (In developing for Android)
+
+Console : No
 
 THESE MODS HAVE NOT BEEN MADE BY ME
 
@@ -26,4 +32,4 @@ https://github.com/yanpla/yanplaRoles/releases/tag/0.1.8
 
 THIS MOD ONLY SUPPORTS AMONG US VERSIONS AFTER v2024.6.18
 
-There are also other versions of this such as Among Us Mod Pack Freeplay and Among Us Mod Pack Host Only
+There are also other versions of this such as Among Us Mod Pack Freeplay
