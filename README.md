@@ -1,4 +1,4 @@
-qwAn Among Us Mod Pack Made by me.
+Among Us Mod Pack Made by me.
 
 However this mod pack does not support all among us devices :
 
