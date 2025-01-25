@@ -1,12 +1,19 @@
 Among Us Mod Pack Made by me.
 
 Supported Versions
+
 ✅ Steam (Supported)
+
 ✅ Epic Games (Supported)
+
 ✅ itch.io (Supported)
+
 ✅ Microsoft Store (Supported)
+
 ✅ Cracked (Supported)
+
 ❌ iOS/iPadOS/Android (Not Supported)
+
 ❌ Switch/Xbox/Playstation (Not Supported)
 
 THESE MODS HAVE NOT BEEN MADE BY ME
