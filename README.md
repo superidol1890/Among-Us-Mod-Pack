@@ -42,6 +42,6 @@ https://github.com/NuclearPowered/Reactor
 
 https://github.com/SubmergedAmongUs/Submerged
 
-https://github.com/yanpla/yanplaRoles/releases/tag/0.1.8
+https://github.com/yanpla/yanplaRoles
 
 THIS MOD ONLY SUPPORTS AMONG US VERSIONS AFTER v2024.6.18
