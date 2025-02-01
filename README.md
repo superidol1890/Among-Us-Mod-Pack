@@ -1,6 +1,6 @@
 Among Us Mod Pack Made by me.
 
-Supported Versions
+Supported Versions:
 
 ✅ Steam (Supported)
 
