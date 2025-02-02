@@ -30,6 +30,8 @@ https://github.com/SubmergedAmongUs/Submerged
 
 Among Us Mod Pack Freeplay:
 
+https://github.com/All-Of-Us-Mods/LaunchpadReloaded
+
 https://github.com/DigiWorm0/LevelImposter
 
 https://github.com/scp222thj/MalumMenu
