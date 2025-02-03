@@ -32,15 +32,9 @@ Among Us Mod Pack Freeplay:
 
 https://github.com/DigiWorm0/LevelImposter
 
-https://github.com/scp222thj/MalumMenu
-
 https://github.com/All-Of-Us-Mods/MiraAPI
 
 https://github.com/CallOfCreator/NewMod
-
-https://github.com/NuclearPowered/Reactor
-
-https://github.com/SubmergedAmongUs/Submerged
 
 https://github.com/yanpla/yanplaRoles
 
