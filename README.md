@@ -38,4 +38,6 @@ https://github.com/CallOfCreator/NewMod
 
 https://github.com/yanpla/yanplaRoles
 
+(all of the Among Us Mod Pack mods are also in this mod) 
+
 THIS MOD ONLY SUPPORTS AMONG US VERSIONS AFTER v2024.6.18
