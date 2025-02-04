@@ -12,7 +12,7 @@ Supported Versions:
 
 ✅ Cracked (Supported)
 
-❌ iOS/iPadOS/Android (Not Supported)
+❌ Mobile (Not Supported)
 
 ❌ Switch/Xbox/Playstation (Not Supported)
 
