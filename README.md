@@ -32,11 +32,7 @@ Among Us Mod Pack Freeplay:
 
 https://github.com/DigiWorm0/LevelImposter
 
-https://github.com/All-Of-Us-Mods/MiraAPI
-
-https://github.com/CallOfCreator/NewMod
-
-https://github.com/yanpla/yanplaRoles
+https://github.com/EnhancedNetwork/TheBetterRoles-Public
 
 (all of the Among Us Mod Pack mods are also in this mod) 
 
