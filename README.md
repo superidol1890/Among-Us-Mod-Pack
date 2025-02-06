@@ -14,15 +14,7 @@ Supported Versions:
 
 ❌ Mobile (Not Supported)
 
-❌ Switch/Xbox/Playstation (Not Supported)
-
-THESE MODS HAVE NOT BEEN MADE BY ME
-
-they have been taken from the following repositories :
-
-Among Us Mod Pack:
-
-https://github.com/scp222thj/MalumMenu
+❌ Console (Not Supported)
 
 https://github.com/NuclearPowered/Reactor
 
