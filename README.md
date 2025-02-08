@@ -16,16 +16,26 @@ Supported Versions:
 
 ❌ Console (Not Supported)
 
+https://github.com/scp222thj/MalumMenu
+
 https://github.com/NuclearPowered/Reactor
 
 https://github.com/SubmergedAmongUs/Submerged
 
-Among Us Mod Pack Freeplay:
+Among Us Mod Pack Freeplay :
 
-https://github.com/DigiWorm0/LevelImposter
+(all of the Among Us Mod Pack mods and https://github.com/DigiWorm0/LevelImposter are also in this mod) 
+
+Mira API and Roles :
+
+https://github.com/All-Of-Us-Mods/MiraAPI
+
+https://github.com/CallOfCreator/NewMod
+
+https://github.com/yanpla/yanplaRoles
+
+The Better Roles:
 
 https://github.com/EnhancedNetwork/TheBetterRoles-Public
-
-(all of the Among Us Mod Pack mods are also in this mod) 
 
 THIS MOD ONLY SUPPORTS AMONG US VERSIONS AFTER v2024.6.18
