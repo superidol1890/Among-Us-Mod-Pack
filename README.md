@@ -28,6 +28,8 @@ Among Us Mod Pack Freeplay :
 
 Mira API and Roles :
 
+https://github.com/All-Of-Us-Mods/LaunchpadReloaded
+
 https://github.com/All-Of-Us-Mods/MiraAPI
 
 https://github.com/CallOfCreator/NewMod
