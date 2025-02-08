@@ -16,13 +16,15 @@ Supported Versions:
 
 ❌ Console (Not Supported)
 
+Among Us Mod Pack:
+
 https://github.com/scp222thj/MalumMenu
 
 https://github.com/NuclearPowered/Reactor
 
 https://github.com/SubmergedAmongUs/Submerged
 
-Among Us Mod Pack Freeplay :
+Among Us Mod Pack Freeplay:
 
 (all of the Among Us Mod Pack mods and https://github.com/DigiWorm0/LevelImposter are also in this mod) 
 
@@ -39,5 +41,11 @@ https://github.com/yanpla/yanplaRoles
 The Better Roles:
 
 https://github.com/EnhancedNetwork/TheBetterRoles-Public
+
+Among Us Mod Pack Host:
+
+https://github.com/scp222thj/MalumMenu
+
+https://github.com/Tommy-XL/Unlock-dlekS-ehT
 
 THIS MOD ONLY SUPPORTS AMONG US VERSIONS AFTER v2024.6.18
