@@ -24,8 +24,6 @@ https://github.com/SubmergedAmongUs/Submerged - custom underwater map
 
 https://github.com/Brybry16/BetterPolus - modified and more balanced Polus map
 
-https://github.com/AlchlcDvl/TownOfUsReworked - play with A LOT more roles
-
 https://launchpad.xtracube.dev/index.php/Main_Page - adds a ton of new roles, game modes, and features
 
 https://github.com/Zeo666/AllTheRoles - many new roles, modifiers, game modes, map settings, hats and more
@@ -46,10 +44,7 @@ https://github.com/NuclearPowered/Reactor - another modding API
 
 https://github.com/EnhancedNetwork/BetterAmongUs-Public - A client-sided mod that enhances the experience for the popular game Among Us!
 
-https://github.com/EnhancedNetwork/TheBetterRoles-Public - A thrilling mod for Among Us that expands gameplay by introducing new roles for Crewmates, Imposters, and Neutrals. Plus, The Better Roles brings a selection of custom hats and commands for an enhanced in-game experience!
-
 https://github.com/scp222thj/MalumMenu - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.
-
 https://github.com/yanpla/yanplaRoles - Among Us mod that adds a few roles
 
 https://builds.bepinex.dev/projects/bepinex_be -modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod 
