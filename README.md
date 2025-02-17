@@ -48,6 +48,8 @@ https://github.com/NuclearPowered/Reactor - another modding API
 
 https://github.com/EnhancedNetwork/BetterAmongUs-Public - A client-sided mod that enhances the experience for the popular game Among Us!
 
+https://github.com/EnhancedNetwork/TheBetterRoles-Public - A thrilling mod for Among Us that expands gameplay by introducing new roles for Crewmates, Imposters, and Neutrals. Plus, TBR brings a selection of custom hats and commands for an enhanced in-game experience!
+
 https://github.com/scp222thj/MalumMenu - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.
 
 https://github.com/yanpla/yanplaRoles - Among Us mod that adds a few roles
