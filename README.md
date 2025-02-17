@@ -36,9 +36,11 @@ https://github.com/Tommy-XL/Unlock-dlekS-ehT - unlock the mirrored / flipped ske
 
 https://github.com/NikoCat233/CrowdedMod - updated fork of CrowdedMod, allows you to have 15+ player lobbies
 
+https://github.com/the-real-techiee/DarkModeAU - dark mode for the game chat (repo archived)
+
 https://github.com/xChipseq/VanillaEnhancements - lots of QoL (quality-of-life) improvements
 
-https://github.com/ugackMiner53/PropHunt - play prop hunt. preveiw video - https://www.youtube.com/watch?v=AXWGir4dun8
+https://github.com/ugackMiner53/PropHunt - play prop hunt
 
 https://github.com/All-Of-Us-Mods/MiraAPI - easy to use modding API
 
