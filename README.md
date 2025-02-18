@@ -1,4 +1,6 @@
-Among Us Mod Packs Made by me.
+A few Among Us Mod Packs made by me.
+
+If If u want more mod packs like this then check out https://github.com/superidol1890/Among-Us-Host-Only-Mod-Packs
 
 Supported Versions:
 
