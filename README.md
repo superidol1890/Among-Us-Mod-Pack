@@ -2,21 +2,15 @@ A few Among Us Mod Packs made by me.
 
 If If u want more mod packs like this then check out https://github.com/superidol1890/Among-Us-Host-Only-Mod-Packs
 
-Supported Versions:
+Before you download anything, make sure your platform is supported:
 
-✅ Steam (Supported)
+✅ PC / Desktop (Steam, itch.io, Epic Games, Microsoft Store)
 
-✅ Epic Games (Supported)
+✅Cracked
 
-✅ itch.io (Supported)
+❌ Mobile (Google Play & App Store)
 
-✅ Microsoft Store (Supported)
-
-✅ Cracked (Supported)
-
-❌ Mobile (Not Supported)
-
-❌ Console (Not Supported)
+❌ Console (Playstation, Nintendo Switch, Xbox)
 
 This mod has been taken from the following:
 
