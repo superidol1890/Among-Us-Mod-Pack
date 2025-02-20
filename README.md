@@ -1,6 +1,18 @@
 A few Among Us Mod Packs made by me.
 
-If If u want more mod packs like this then check out https://github.com/superidol1890/Among-Us-Host-Only-Mod-Packs
+If u want free among us on pc then check out
+ 
+https://github.com/superidol1890/Free-Among-Us
+
+If u want more mods check out the following:
+
+https://www.mediafire.com/file/51qxi4nwf5jkc91/AUMP-v1.0.0_-BAU_-_Stereo.zip/file
+
+https://www.mediafire.com/file/bc50sp5sybokpjm/AUMP-v1.0.0-Stereo.zip/file
+
+https://www.mediafire.com/file/b95gax7bdqo973q/AUMPF-v1.0.0-ATR-Stereo.zip/file
+
+https://www.mediafire.com/file/azm2llquqp7x1y7/AUMPF-v1.0.0-MiraAPI%252BRoles-Stereo.zip/file
 
 Before you download anything, make sure your platform is supported:
 
@@ -27,10 +39,6 @@ https://github.com/Zeo666/AllTheRoles - many new roles, modifiers, game modes, m
 https://github.com/CallOfCreator/NewMod - new roles, abilities and game modes
 
 https://github.com/astra1dev/AUnlocker - unlock cosmetics, chat, account, and more
-
-https://github.com/Tommy-XL/Unlock-dlekS-ehT - unlock the mirrored / flipped skeld map
-
-https://github.com/NikoCat233/CrowdedMod - updated fork of CrowdedMod, allows you to have 15+ player lobbies
 
 https://github.com/the-real-techiee/DarkModeAU - dark mode for the game chat (repo archived)
 
