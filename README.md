@@ -6,13 +6,13 @@ https://github.com/superidol1890/Free-Among-Us
 
 If u want more mods check out the following:
 
-https://www.mediafire.com/file/51qxi4nwf5jkc91/AUMP-v1.0.0_-BAU_-_Stereo.zip/file
+https://www.mediafire.com/file/igssd172gvsb5c5/AUMP-v1.0.0_-BAU_-_Stereo.zip/file
 
-https://www.mediafire.com/file/bc50sp5sybokpjm/AUMP-v1.0.0-Stereo.zip/file
+https://www.mediafire.com/file/77px00nsm0rwtoc/AUMP-v1.0.0-Stereo.zip/file
 
-https://www.mediafire.com/file/b95gax7bdqo973q/AUMPF-v1.0.0-ATR-Stereo.zip/file
+https://www.mediafire.com/file/ucofnzt99yp0ngn/AUMPF-v1.0.0-ATR-Stereo.zip/file
 
-https://www.mediafire.com/file/azm2llquqp7x1y7/AUMPF-v1.0.0-MiraAPI%252BRoles-Stereo.zip/file
+https://www.mediafire.com/file/ju5y79b27rk1i23/AUMPF-v1.0.0-MiraAPI%252BRoles-Stereo.zip/file
 
 Before you download anything, make sure your platform is supported:
 
@@ -29,8 +29,6 @@ This mod has been taken from the following:
 https://levelimposter.net - create and play custom maps with ease
 
 https://github.com/SubmergedAmongUs/Submerged - custom underwater map
-
-https://github.com/Brybry16/BetterPolus - modified and more balanced Polus map
 
 https://launchpad.xtracube.dev/index.php/Main_Page - adds a ton of new roles, game modes, and features
 
