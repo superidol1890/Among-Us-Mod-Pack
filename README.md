@@ -2,7 +2,7 @@ A few Among Us Mod Packs made by me.
 
 If u want free among us on pc then check out
  
-https://github.com/superidol1890/Free-Among-Us
+[Free Among Us]https://github.com/superidol1890/Free-Among-Us
 
 If u want more mods check out the following:
 
