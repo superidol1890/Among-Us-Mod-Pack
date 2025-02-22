@@ -28,7 +28,7 @@ If u want more mods check out the following:
 
 ❌ Console (Playstation, Nintendo Switch, Xbox)
 
-## Download
+# Download
 
 1. Navigate to the latest available version of the mod for your version of the game in
 [releases](https://github.com/superidol1890/Among-Us-Mod-Pack/releases).
