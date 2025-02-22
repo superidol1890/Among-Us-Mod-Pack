@@ -1,6 +1,6 @@
 # Among us Mod Pack
 
-A few Among Us Mod Packs made by me.(Note:These mods have not been made by me and the links of the mods which I used are given below)
+A few Among Us Mod Packs made by me.(Note:These mods have not been made by me and the links of the mods which I used are given below along with their description )
 
 # Other Mods
 
@@ -39,7 +39,7 @@ If u want more mods check out the following:
 
 This mod packs have been made with the help of the following mods
 
-[BetterPolus](https://github.com/Brybry16/BetterPolus)
+[BetterPolus](https://github.com/Brybry16/BetterPolus) - modified and more balanced Polus map
 
 [LevelImpostor](https://levelimposter.net) - create and play custom maps with ease
 
