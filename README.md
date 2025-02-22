@@ -39,8 +39,6 @@ If u want more mods check out the following:
 
 This mod packs have been made with the help of the following mods
 
-[BetterPolus](https://github.com/Brybry16/BetterPolus) - modified and more balanced Polus map
-
 [LevelImpostor](https://levelimposter.net) - create and play custom maps with ease
 
 [Submerged](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
