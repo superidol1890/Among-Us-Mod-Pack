@@ -6,13 +6,13 @@ If u want free among us on pc then check out
 
 If u want more mods check out the following:
 
-[AUMP-v1.0.0-BAU](https://www.mediafire.com/file/igssd172gvsb5c5/AUMP-v1.0.0_-BAU_-_Stereo.zip/file)
+[AUMP-v1.0.0-BAU-Stereo](https://www.mediafire.com/file/igssd172gvsb5c5/AUMP-v1.0.0_-BAU_-_Stereo.zip/file)
 
 [AUMP-v1.0.0-Stereo](https://www.mediafire.com/file/77px00nsm0rwtoc/AUMP-v1.0.0-Stereo.zip/file)
 
-[AUMPF-v1.0.0-ATR](https://www.mediafire.com/file/ucofnzt99yp0ngn/AUMPF-v1.0.0-ATR-Stereo.zip/file)
+[AUMPF-v1.0.0-ATR-Stereo](https://www.mediafire.com/file/ucofnzt99yp0ngn/AUMPF-v1.0.0-ATR-Stereo.zip/file)
 
-[AUMPF-v1.0.0-MiraAPI+Roles](https://www.mediafire.com/file/ju5y79b27rk1i23/AUMPF-v1.0.0-MiraAPI%252BRoles-Stereo.zip/file)
+[AUMPF-v1.0.0-MiraAPI+Roles-Stereo](https://www.mediafire.com/file/ju5y79b27rk1i23/AUMPF-v1.0.0-MiraAPI%252BRoles-Stereo.zip/file)
 
 Before you download anything, make sure your platform is supported:
 
