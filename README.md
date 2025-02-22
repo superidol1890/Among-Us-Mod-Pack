@@ -1,4 +1,8 @@
-A few Among Us Mod Packs made by me.
+# Among us Mod Pack
+
+A few Among Us Mod Packs made by me.(Note:These mods have not been made by me and the links of the mods which I used are given below)
+
+# Other Mods
 
 If u want free among us on pc then check out
  
@@ -14,7 +18,7 @@ If u want more mods check out the following:
 
 [AUMPF-v1.0.0-MiraAPI+Roles-Stereo](https://www.mediafire.com/file/ju5y79b27rk1i23/AUMPF-v1.0.0-MiraAPI%252BRoles-Stereo.zip/file)
 
-Before you download anything, make sure your platform is supported:
+# Supported Versions
 
 ✅ PC / Desktop (Steam, itch.io, Epic Games, Microsoft Store)
 
@@ -24,7 +28,18 @@ Before you download anything, make sure your platform is supported:
 
 ❌ Console (Playstation, Nintendo Switch, Xbox)
 
-This mod has been taken from the following:
+## Download
+
+1. Navigate to the latest available version of the mod for your version of the game in
+[releases](https://github.com/superidol1890/Among-Us-Mod-Pack/releases).
+3. Download the zipped files(whichever ones u want).
+4. Copy the downloaded files and put them in your Among Us folder(or any other folder)
+
+# Mods
+
+This mod packs have been made with the help of the following mods
+
+[BetterPolus](https://github.com/Brybry16/BetterPolus)
 
 [LevelImpostor](https://levelimposter.net) - create and play custom maps with ease
 
