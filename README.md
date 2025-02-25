@@ -10,13 +10,13 @@ If u want free among us on pc then check out
 
 If u want more mods check out the following:
 
-[AUMP-v1.0.0-BAU-Stereo](https://www.mediafire.com/file/igssd172gvsb5c5/AUMP-v1.0.0_-BAU_-_Stereo.zip/file)
+[AUMP-v1.0.0-BAU-Stereo](https://www.mediafire.com/file/pn17hnpjj4ohl9n/AUMP-v1.0.0-BAU-Stereo.zip/file)
 
-[AUMP-v1.0.0-Stereo](https://www.mediafire.com/file/77px00nsm0rwtoc/AUMP-v1.0.0-Stereo.zip/file)
+[AUMP-v1.0.0-Stereo](https://www.mediafire.com/file/tvsmu2fj4jcc8g0/AUMP-v1.0.0-Stereo.zip/file)
 
-[AUMPF-v1.0.0-ATR-Stereo](https://www.mediafire.com/file/ucofnzt99yp0ngn/AUMPF-v1.0.0-ATR-Stereo.zip/file)
+[AUMPF-v1.0.0-ATR-Stereo](https://www.mediafire.com/file/t9xk067469r45vh/AUMPF-v1.0.0-ATR-Stereo.zip/file)
 
-[AUMPF-v1.0.0-MiraAPI+Roles-Stereo](https://www.mediafire.com/file/ju5y79b27rk1i23/AUMPF-v1.0.0-MiraAPI%252BRoles-Stereo.zip/file)
+[AUMPF-v1.0.0-MiraAPI+Roles-Stereo](https://www.mediafire.com/file/e1g0v4bjao22zit/AUMPF-v1.0.0-MiraAPI%252BRoles-Stereo.zip/file)
 
 # Supported Versions
 
@@ -30,17 +30,15 @@ If u want more mods check out the following:
 
 # Download
 
-1. Navigate to the latest available version of the mod for your version of the game in
-[releases](https://github.com/superidol1890/Among-Us-Mod-Pack/releases).
-3. Download the zipped files(whichever ones u want).
-4. Copy the downloaded files and put them in your Among Us folder(or any other folder)
+1. Navigate to the latest available version of the mod for your version of the game in [releases](https://github.com/superidol1890/Among-Us-Mod-Pack/releases).
+2. Download the zipped files(whichever ones u want).
+3. Copy the downloaded files and put them in your Among Us folder(or any other folder)
 
 # Mods
 
 This mod packs have been made with the help of the following mods
 
 [LevelImpostor](https://levelimposter.net) - create and play custom maps with ease
-
 [Submerged](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
 
 [Launchpad](https://launchpad.xtracube.dev/index.php/Main_Page) - adds a ton of new roles, game modes, and features
@@ -51,11 +49,9 @@ This mod packs have been made with the help of the following mods
 
 [AUnlocker](https://github.com/astra1dev/AUnlocker) - unlock cosmetics, chat, account, and more
 
+[Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
+
 [DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) - dark mode for the game chat (repo archived)
-
-[VanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of QoL (quality-of-life) improvements
-
-[PropHunt](https://github.com/ugackMiner53/PropHunt) - play prop hunt
 
 [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - easy to use modding API
 
