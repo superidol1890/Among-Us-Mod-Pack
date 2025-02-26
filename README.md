@@ -36,6 +36,8 @@ This mod packs have been made with the help of the following mods
 
 [Submerged](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
 
+[Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
+
 [Launchpad](https://launchpad.xtracube.dev/index.php/Main_Page) - adds a ton of new roles, game modes, and features
 
 [All The Roles](https://github.com/Zeo666/AllTheRoles) - many new roles, modifiers, game modes, map settings, hats and more
