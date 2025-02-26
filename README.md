@@ -10,9 +10,7 @@ If u want free among us on pc then check out
 
 If u want more mods check out the following:
 
-[AUMP-v1.0.0-BAU-Stereo](https://www.mediafire.com/file/pn17hnpjj4ohl9n/AUMP-v1.0.0-BAU-Stereo.zip/file)
-
-[AUMP-v1.0.0-Stereo](https://www.mediafire.com/file/tvsmu2fj4jcc8g0/AUMP-v1.0.0-Stereo.zip/file)
+[Among Us Host Only Mod Packs](https://github.com/superidol1890/Among-Us-Host-Only-Mod-Packs)
 
 # Supported Versions
 
