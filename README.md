@@ -14,10 +14,6 @@ If u want more mods check out the following:
 
 [AUMP-v1.0.0-Stereo](https://www.mediafire.com/file/tvsmu2fj4jcc8g0/AUMP-v1.0.0-Stereo.zip/file)
 
-[AUMPF-v1.0.0-ATR-Stereo](https://www.mediafire.com/file/t9xk067469r45vh/AUMPF-v1.0.0-ATR-Stereo.zip/file)
-
-[AUMPF-v1.0.0-MiraAPI+Roles-Stereo](https://www.mediafire.com/file/e1g0v4bjao22zit/AUMPF-v1.0.0-MiraAPI%252BRoles-Stereo.zip/file)
-
 # Supported Versions
 
 ✅ PC / Desktop (Steam, itch.io, Epic Games, Microsoft Store)
