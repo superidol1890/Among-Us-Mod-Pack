@@ -2,21 +2,28 @@
 
 A few Among Us Mod Packs made by me.(Note:These mods have not been made by me and the links of the mods which I used are given below along with their description )
 
-# Other Mods
+# Supported Platforms
 
-If u want more mods check out the following:
+✅ Steam
 
-[Among Us Host Only Mod Packs](https://github.com/superidol1890/Among-Us-Host-Only-Mod-Packs)
+✅ Epic Games
 
-# Supported Versions
+✅ Microsoft Store
 
-✅ PC / Desktop (Steam, itch.io, Epic Games, Microsoft Store)
+✅ itch.io
 
-✅Cracked
+❌ iOS/Android
 
-❌ Mobile (Google Play & App Store)
+❌ Xbox/Playstation/Switch
 
-❌ Console (Playstation, Nintendo Switch, Xbox)
+# Supported Game Versions
+
+✅ 2024.11.26
+✅ 2024.10.29
+✅ v2024.9.4
+✅ v2024.8.13
+✅ v2024.6.18
+❌ v2024.3.5 or Below
 
 # Download
 
@@ -34,19 +41,9 @@ This mod packs have been made with the help of the following mods
 
 [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
 
-[Launchpad](https://launchpad.xtracube.dev/index.php/Main_Page) - adds a ton of new roles, game modes, and features
-
-[All The Roles](https://github.com/Zeo666/AllTheRoles) - many new roles, modifiers, game modes, map settings, hats and more
-
-[NewMod](https://github.com/CallOfCreator/NewMod) - new roles, abilities and game modes
-
 [AUnlocker](https://github.com/astra1dev/AUnlocker) - unlock cosmetics, chat, account, and more
 
 [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
-
-[DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) - dark mode for the game chat (repo archived)
-
-[Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - easy to use modding API
 
 [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
 
@@ -56,8 +53,4 @@ This mod packs have been made with the help of the following mods
 
 [Malum Menu](https://github.com/scp222thj/MalumMenu) - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.
 
-[Yanpla Roles](https://github.com/yanpla/yanplaRoles) - Among Us mod that adds a few roles
-
 [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) -modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod 
-
-THIS MOD ONLY SUPPORTS AMONG US VERSIONS AFTER v2024.6.18
