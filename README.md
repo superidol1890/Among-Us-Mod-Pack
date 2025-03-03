@@ -46,6 +46,10 @@ This mod packs have been made with the help of the following mods
 
 [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
 
+[All The Roles](https://github.com/Zeo666/AllTheRoles) - many new roles, modifiers, game modes, map settings, hats and more
+
+[DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) - dark mode for the game chat (repo archived)
+
 [AUnlocker](https://github.com/astra1dev/AUnlocker) - unlock cosmetics, chat, account, and more
 
 [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
