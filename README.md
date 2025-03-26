@@ -2,6 +2,8 @@
 
 A few Among Us Mod Packs made by me.(Note:These mods have not been made by me and the links of the mods which I used are given below along with their description )
 
+note : due to the new among us update , most of the mods aren't working , so for now a temporary mod pack has been made. The offcial realease
+
 # Supported Platforms
 
 ✅ Steam
@@ -18,17 +20,11 @@ A few Among Us Mod Packs made by me.(Note:These mods have not been made by me an
 
 # Supported Game Versions
 
-✅ 2024.11.26
+v2025.3.25(16.0.0) - v1.0.1 (temporary version)
 
-✅ 2024.10.29
+v2024.6.18 , v2024.8.13 , v2024.9.4 , 2024.10.29 - v1.0.0
 
-✅ v2024.9.4
-
-✅ v2024.8.13
-
-✅ v2024.6.18
-
-❌ v2024.3.5 or Below
+v2024.3.5 or Below - ❌
 
 # Download
 
