@@ -8,9 +8,9 @@ note : due to the new among us update , most of the mods aren't working , so for
 
 ✅ Steam
 
-✅ Itch.io
+✅ Epic Games
 
-✅ Epic Games Launcher
+✅ Itch.io
 
 ✅ Microsoft Store
 
