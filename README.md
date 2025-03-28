@@ -57,3 +57,8 @@ This mod packs have been made with the help of the following mods
 - [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
 - [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
 - [VanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of QoL (quality-of-life) improvements
+- [Malum Menu](https://github.com/scp222thj/MalumMenu) - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.
+- [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - easy to use modding API
+- [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
+- [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod 
+ 
