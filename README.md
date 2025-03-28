@@ -8,15 +8,17 @@ note : due to the new among us update , most of the mods aren't working , so for
 
 ✅ Steam
 
-✅ Epic Games
+✅ Itch.io
+
+✅ Epic Games Launcher
 
 ✅ Microsoft Store
 
-✅ itch.io
+❔ Cracked (rarely works)
 
-❌ iOS/Android
+❌ iOS App Store & Google Play
 
-❌ Xbox/Playstation/Switch
+❌ PS & Switch & Xbox
 
 # Supported Game Versions
 
