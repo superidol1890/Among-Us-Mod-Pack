@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Version>1.2.2</Version>
+
+        <Description>An Among Us mod that tweaks Polus, allowing a more balanced experience.</Description>
+        <Authors>Brybry</Authors>
+        <LangVersion>latest</LangVersion>
+        <PlatformTarget>x86</PlatformTarget>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AmongUs.GameLibs.Steam" Version="2023.10.24" />
+        <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.672" />
+        <PackageReference Include="BepInEx.IL2CPP.MSBuild" Version="2.1.0-rc.1">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+    </ItemGroup>
+
+
+    <Target Name="Copy" AfterTargets="Build">
+        <Copy SourceFiles="$(OutputPath)$(AssemblyName).dll" DestinationFiles="$(AmongUs)/BepInEx/plugins/$(AssemblyName).dll" />
+    </Target>
+</Project>
