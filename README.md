@@ -2,8 +2,7 @@
 
 A few Among Us Mod Packs made by me.(Note:These mods have not been made by me and the links of the mods which I used are given below along with their description )
 
-note : due to the new among us update , most of the mods aren't working , so for now a temporary beta mod pack has been made. The official realease will be made after all the mods have been updated , so until then have fun with this mod pack :) .  U can download the beta version here [ v1.0.1 beta 3](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.1)
- 
+
 # Supported Platforms
 
 ✅ Steam
@@ -22,7 +21,7 @@ note : due to the new among us update , most of the mods aren't working , so for
 
 # Supported Game Versions
 
-v2025.3.25(16.0.0) - v1.0.1 (temporary version)
+v2025.3.25(16.0.0) - v1.1.0
 
 v2024.6.18 , v2024.8.13 , v2024.9.4 , 2024.10.29 - v1.0.0
 
