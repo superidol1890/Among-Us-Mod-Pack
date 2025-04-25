@@ -38,9 +38,10 @@ v2024.3.5 or Below - ❌
 This mod packs have been made with the help of the following mods
 
 - [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
+- [Launchpad](https://launchpad.xtracube.dev/index.php/Main_Page) - adds a ton of new roles, game modes, and features
 - [PropHunt](https://github.com/ugackMiner53/PropHunt) - play prop hunt. [preview video](https://www.youtube.com/watch?v=AXWGir4dun8)
 - [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - many new roles, settings and custom hats
-- [StellarRolesAU](https://github.com/Mr-Fluuff/StellarRolesAU) - new roles, settings and custom cosmetics
+- [StellarRoles](https://github.com/Mr-Fluuff/StellarRolesAU) - new roles, settings and custom cosmetics
 - [AllTheRoles](https://github.com/Zeo666/AllTheRoles) - many new roles, modifiers, game modes, map settings, hats and more
 - [NewMod](https://github.com/CallOfCreator/NewMod) - new roles, abilities and game modes
 - [Town of Host](https://github.com/tukasa0001/TownOfHost) - chat commands, roles, add-ons
