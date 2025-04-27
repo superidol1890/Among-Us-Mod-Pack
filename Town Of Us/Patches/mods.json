@@ -1,0 +1,132 @@
+{
+    "Version" : "1.0",
+    "List" : {
+        "Reactor" : {
+            "Name" : "Reactor",
+            "Author" : "NuclearPowered",
+            "Releases" : "https://api.github.com/repos/NuclearPowered/Reactor/releases",
+            "Dependencies" : {},
+            "Versioning" : {}
+        },
+        "MiraAPI" : {
+            "Name" : "Mira API",
+            "Author" : "All-Of-Us-Mods",
+            "Releases" : "https://api.github.com/repos/All-Of-Us-Mods/MiraAPI/releases",
+            "Dependencies" : {
+                "Reactor" : "2.3.1"
+            },
+            "Versioning" : {}
+        },
+
+        "LevelImposter" : {
+            "Name" : "LevelImposter",
+            "Author" : "DigiWorm0",
+            "Releases" : "https://api.github.com/repos/DigiWorm0/LevelImposter/releases",
+            "Dependencies" : {
+                "Reactor" : "2.3.1"
+            },
+            "Versioning" : {}
+        },
+        "Submerged" : {
+            "Name" : "Submerged",
+            "Author" : "SubmergedAmongUs",
+            "Releases" : "https://api.github.com/repos/SubmergedAmongUs/Submerged/releases",
+            "Dependencies" : {
+                "Reactor" : "2.3.1"
+
+            "Versioning" : {}
+        },
+        "BetterPolus" : {
+            "Name" : "Better Polus",
+            "Author" : "Brybry16",
+            "Releases" : "https://api.github.com/repos/Brybry16/BetterPolus/releases",
+            "Versioning" : {}
+        },
+
+        "VanillaEnhancements" : {
+            "Name" : "Vanilla Enhancements",
+            "Author" : "xChipseq",
+            "Releases" : "https://api.github.com/repos/xChipseq/VanillaEnhancements/releases",
+            "Dependencies" : {
+                "Reactor" : "2.3.1"
+            },
+            "Versioning" : {}
+        },
+        "AUnlocker" : {
+            "Name" : "AUnlocker",
+            "Author" : "astra1dev",
+            "Releases" : "https://api.github.com/repos/astra1dev/AUnlocker/releases",
+            "Versioning" : {}
+        },
+        "Unlock-dlekS-ehT" : {
+            "Name" : "Unlock-dlekS-ehT",
+            "Author" : "Tommy-XL",
+            "Releases" : "https://api.github.com/repos/Tommy-XL/Unlock-dlekS-ehT/releases",
+            "Versioning" : {}
+        },
+
+        "Town-Of-Us-R" : {
+            "Name" : "Town Of Us R",
+            "Author" : "eDonnes124",
+            "Releases" : "https://api.github.com/repos/eDonnes124/Town-Of-Us-R/releases",
+            "Dependencies" : {
+                "Reactor" : "2.3.1"
+            },
+            "Versioning" : {
+                "v5.2.0" : "2024.11.26"
+            }
+        },
+        "TheOtherRoles" : {
+            "Name" : "The Other Roles",
+            "Author" : "TheOtherRolesAU",
+            "Releases" : "https://api.github.com/repos/TheOtherRolesAU/TheOtherRoles/releases",
+            "Dependencies" : {
+                "Reactor" : "2.3.1"
+            },
+            "Versioning" : {
+                "v4.7.0" : "2024.11.26"
+            }
+        },
+        "StellarRoles" : {
+            "Name" : "Stellar Roles",
+            "Author" : "Mr-Fluuff",
+            "Releases" : "https://api.github.com/repos/Mr-Fluuff/StellarRolesAU/releases",
+            "Dependencies" : {
+                "Reactor" : "2.3.1"
+            },
+            "Versioning" : {
+                "v2024.12.5" : "2024.11.26"
+            }
+        },
+        "AllTheRoles" : {
+            "Name" : "All The Roles",
+            "Author" : "Zeo666",
+            "Releases" : "https://api.github.com/repos/Zeo666/AllTheRoles/releases",
+            "Dependencies" : {
+                "Reactor" : "2.3.1"
+            },
+            "Versioning" : {
+                "0.12.0" : "2024.11.26"
+            }
+        },
+        "Town-Of-Us-JK" : {
+            "Name" : "Town Of Us JK",
+            "Author" : "JoaKing08",
+            "Releases" : "https://api.github.com/repos/JoaKing08/Town-Of-Us-JK/releases",
+            "Dependencies" : {
+                "Reactor" : "2.2.0"
+            },
+            "Versioning" : {
+                "v2.6.3" : "2024.6.4"
+            }
+        },
+        "Town-Of-Us" : {
+            "Name" : "Town of Us",
+            "Author" : "slushiegoose",
+            "Releases" : "https://api.github.com/repos/slushiegoose/Town-Of-Us/releases",
+            "Dependencies" : {
+                "Reactor" : "1.1.0"
+            },
+            "Versioning" : {
+                "v2.2.1" : "2021.7.20e"
+            }
