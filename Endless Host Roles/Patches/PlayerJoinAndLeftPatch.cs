@@ -4,6 +4,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using AmongUs.Data;
 using AmongUs.GameOptions;
+using AmongUs.InnerNet.GameDataMessages;
 using EHR.AddOns.Common;
 using EHR.Crewmate;
 using EHR.Modules;
@@ -191,7 +192,7 @@ internal static class OnPlayerJoinedPatch
             catch { }
         }, 4.5f, "green bean kick late task", false);
 
-        if (AmongUsClient.Instance.AmHost && client.FriendCode == "" && Options.KickPlayerFriendCodeNotExist.GetBool() && !GameStates.IsLocalGame && GameStates.CurrentServerType is not GameStates.ServerType.ModdedWithCNOSupport and not GameStates.ServerType.ModdedWithoutCNOSupport)
+        if (AmongUsClient.Instance.AmHost && client.FriendCode == "" && Options.KickPlayerFriendCodeNotExist.GetBool() && !GameStates.IsLocalGame && GameStates.CurrentServerType != GameStates.ServerType.Modded)
         {
             if (!BanManager.TempBanWhiteList.Contains(client.GetHashedPuid())) BanManager.TempBanWhiteList.Add(client.GetHashedPuid());
 
@@ -208,7 +209,7 @@ internal static class OnPlayerJoinedPatch
             Logger.Info(msg, "Android Kick");
         }
 
-        if (FastDestroyableSingleton<FriendsListManager>.Instance.IsPlayerBlockedUsername(client.FriendCode) && AmongUsClient.Instance.AmHost && GameStates.CurrentServerType is not GameStates.ServerType.ModdedWithCNOSupport and not GameStates.ServerType.ModdedWithoutCNOSupport)
+        if (FastDestroyableSingleton<FriendsListManager>.Instance.IsPlayerBlockedUsername(client.FriendCode) && AmongUsClient.Instance.AmHost && GameStates.CurrentServerType != GameStates.ServerType.Modded)
         {
             AmongUsClient.Instance.KickPlayer(client.Id, true);
             Logger.Info($"Blocked Player {client.PlayerName}({client.FriendCode}) has been banned.", "BAN");
@@ -297,6 +298,20 @@ internal static class OnPlayerLeftPatch
                 Main.SayStartTimes.Remove(__instance.ClientId);
                 Main.SayBanwordsTimes.Remove(__instance.ClientId);
                 Main.PlayerVersion.Remove(data?.Character?.PlayerId ?? byte.MaxValue);
+
+                if (data != null && data.Character != null)
+                {
+                    uint netid = data.Character.NetId;
+
+                    LateTask.New(() =>
+                    {
+                        if (GameStates.IsOnlineGame)
+                        {
+                            var message = new DespawnGameDataMessage(netid);
+                            AmongUsClient.Instance.LateBroadcastReliableMessage(message.Cast<IGameDataMessage>());
+                        }
+                    }, 2.5f, "Repeat Despawn", false);
+                }
             }
 
             Utils.CountAlivePlayers(true);
