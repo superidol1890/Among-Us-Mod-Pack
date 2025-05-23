@@ -21,9 +21,11 @@ A few Among Us Mod Packs made by me.(Note:These mods have not been made by me an
 
 # Supported Game Versions
 
-v2025.3.25(16.0.0) - v1.1.0
+v2025.5.20(16.0.5) - [v1.1.1 beta 1](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.1.1)
 
-v2024.6.18 , v2024.8.13 , v2024.9.4 , 2024.10.29 - v1.0.0
+v2025.3.25(16.0.0) - [v1.1.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.1.0)
+
+v2024.6.18 , v2024.8.13 , v2024.9.4 , 2024.10.29 - [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0)
 
 v2024.3.5 or Below - ❌
 
@@ -56,6 +58,7 @@ This mod packs have been made with the help of the following mods
 - [Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - unlock the mirrored / flipped skeld map
 - [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
 - [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
+- [DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) - dark mode for the game chat
 - [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - easy to use modding API
 - [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
 - [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod 
