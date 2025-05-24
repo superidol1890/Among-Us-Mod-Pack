@@ -1,6 +1,6 @@
 # Among us Mod Pack
 
-A few Among Us Mod Packs made by me.(Note:These mods have not been made by me and the links of the mods which I used are given below along with their description )
+A few Among Us Mod Packs made by me. Note:These mods have not been made by me and the links of the mods which I used are given below along with their description. Credits go to [Astral](https://github.com/astra1dev) for the descriptions from his repo [Awesome Among Us](https://github.com/astra1dev/awesome-among-us)
 
 
 # Supported Platforms
