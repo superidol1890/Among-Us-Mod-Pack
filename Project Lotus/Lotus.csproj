@@ -1,0 +1,85 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>17.0</LangVersion>
+    <langVersion>latest</langVersion>
+    <Description>Project Lotus</Description>
+    <Authors>Tealeaf, Discussions</Authors>
+    <AmongUs>D:\Games\AmongUs\steam\Lotus</AmongUs>
+    <RootNamespace>Lotus</RootNamespace>
+    <Nullable>enable</Nullable>
+    <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
+    <GenerateAssemblyInformationalVersionAttribute>false</GenerateAssemblyInformationalVersionAttribute>
+    <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+    <Deterministic>false</Deterministic>
+    <DefineConstants>JETBRAINS_ANNOTATIONS</DefineConstants>
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <debug>true</debug>
+  </PropertyGroup>
+
+  <PropertyGroup>
+		<GamePlatform Condition="'$(GamePlatform)' == ''">Steam</GamePlatform>
+		<GameVersion Condition="'$(GamePlatform)' == 'Steam'">2024.6.18</GameVersion>
+		<GameVersion Condition="'$(GamePlatform)' == 'Itch'">2024.6.18</GameVersion>
+
+        <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+	</PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AmongUs.GameLibs.Steam" Version="2025.3.25" PrivateAssets="all" />
+		<PackageReference Include="BepInEx.IL2CPP.MSBuild" Version="2.1.0-rc.1">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.697" Private="false" ExcludeAssets="runtime;native" />
+		<PackageReference Condition="$(Debug) == 'false'" Include="VentFrameworkContinued" Version="1.1.0" />
+    <Reference Condition="$(Debug) == 'true'" Include="../VentFramework-Continued/bin/Debug/net6.0/VentFrameworkContinued.dll">
+      <IncludeAssets>runtime; compile; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </Reference>
+	</ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Costura.Fody" Version="5.8.0-alpha0098">
+            <IncludeAssets>runtime; compile; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+            <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+
+    <PackageReference Include="JetBrains.Annotations" Version="2023.2.0-eap3">
+      <Aliases>JBAnnotations</Aliases>
+    </PackageReference>
+    <PackageReference Include="Samboy063.Cpp2IL.Core" Version="2022.1.0-development.972" />
+    <PackageReference Include="GitInfo" Version="3.3.3">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+
+    <PackageReference Include="YamlDotNet" Version="13.1.0" />
+  </ItemGroup>
+  
+  <Target Name="Copy" AfterTargets="Build" Condition="'$(AmongUs)' != ''">
+    <CreateItem Include="$(TargetDir)\*.dll" Exclude="$(TargetPath)">
+		  <Output TaskParameter="Include" ItemName="DEPSD" />
+    </CreateItem>
+    
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(AmongUs)/BepInEx/plugins/" UseSymboliclinksIfPossible="true"/>
+    <Move SourceFiles="@(DEPSD)" DestinationFolder="$(TargetDir)\depends\" OverwriteReadOnlyFiles="true" />
+  </Target>
+
+  <ItemGroup>
+    <EmbeddedResource Include=".\assets\projectlotus_bundle" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="./SourceGenerators/RoleEditorGenerator/src/RoleEditorGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+  </ItemGroup>
+    
+  <ItemGroup>
+    <None Remove="./SourceGenerators/**/*" />
+    <Content Remove="./SourceGenerators/**/*" />
+    <Compile Remove="./SourceGenerators/**/*" />
+  </ItemGroup>
+</Project>
