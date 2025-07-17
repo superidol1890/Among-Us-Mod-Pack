@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <LangVersion>latest</LangVersion>
+
+        <Description>Core mod and API for Among Us</Description>
+
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="..\Reactor.Networking.Shared\**\*.cs" LinkBase="Networking" Visible="false" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <EmbeddedResource Include="Assets\**\*" Exclude="Assets\icon.png" />
+    </ItemGroup>
+
+    <Import Project="../AmongUs.props" />
+</Project>
