@@ -15,7 +15,7 @@ A few Among Us Mod Packs made by me. Note:These mods have not been made by me an
 
 ❔ Cracked (rarely works)
 
-❌ iOS App Store & Google Play
+❌ iOS & Android(in development for android)
 
 ❌ PS & Switch & Xbox
 
