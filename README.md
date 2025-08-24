@@ -40,6 +40,7 @@ v2024.3.5 or Below - ❌
 This mod packs have been made with the help of the following mods
 
 - [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
+- [Town of Us Mira](https://github.com/AU-Avengers/TOU-Mira) - Town of Us Reactivated, but cleaner using MiraAPI with many improvements
 - [Launchpad](https://github.com/All-Of-Us-Mods/LaunchpadReloaded) - adds a ton of new roles, game modes, and features
 - [PropHunt](https://github.com/ugackMiner53/PropHunt) - play prop hunt.
 - [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - many new roles, settings and custom hats
