@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <Version>0.1.0</Version>
+        <Description>An Among Us Mod Pack</Description>
+        <Authors>Super Idol</Authors>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Reactor\Reactor.csproj" Private="false" />
+    </ItemGroup>
+
+    <Import Project="../AmongUs.props" />
+</Project>
