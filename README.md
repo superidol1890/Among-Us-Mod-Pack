@@ -1,6 +1,6 @@
 # Among us Mod Pack
 
-A few Among Us Mod Packs made by me. Note:These mods have not been made by me and the links of the mods which I used are given below along with their description. Credits go to [Astral](https://github.com/astra1dev) for the descriptions from his repo [Awesome Among Us](https://github.com/astra1dev/awesome-among-us)
+A few Among Us Mod Packs made by me. Note:These mods have not been made by me and the links of the mods which I used are given below along with their description. Credits go to [Astral](https://github.com/astra1dev) for the descriptions from his repo [Awesome Among Us](https://github.com/astra1dev/awesome-among-us). For more info about this Mod Pack click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt).
 
 
 # Supported Platforms
@@ -36,6 +36,8 @@ v2024.3.5 or Below - ❌
 3. Copy the downloaded files and put them in your Among Us folder(or any other folder)
 
 # Mods
+
+Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt).
 
 This mod packs have been made with the help of the following mods
 
