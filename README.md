@@ -52,17 +52,17 @@ These mod packs have been made with the help of the following mods:
 
 Mods:
 
-[AUnlocker](https://github.com/astra1dev/AUnlocker)
-[Chaos Tokens](https://github.com/xChipseq/ChaosTokens)
-[Emojis (in the chat)](https://github.com/WanderingPix/Emojis-in-the-mogus-chat)
-[Launchpad Reloaded](https://github.com/All-Of-Us-Mods/LaunchpadReloaded)
-[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
-[MiraAPI](https://github.com/All-Of-Us-Mods/MiraAPI)
-[New Mod](https://github.com/CallOfCreator/NewMod)
-[Poke Lobby](https://github.com/XtraCube/PokemongUs)
-[Reactor](https://github.com/NuclearPowered/Reactor)
-[Smol Mod](https://github.com/XtraCube/SmolMod)
-[Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira)
+-[AUnlocker](https://github.com/astra1dev/AUnlocker)
+-[Chaos Tokens](https://github.com/xChipseq/ChaosTokens)
+-[Emojis (in the chat)](https://github.com/WanderingPix/Emojis-in-the-mogus-chat)
+-[Launchpad Reloaded](https://github.com/All-Of-Us-Mods/LaunchpadReloaded)
+-[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
+-[MiraAPI](https://github.com/All-Of-Us-Mods/MiraAPI)
+-[New Mod](https://github.com/CallOfCreator/NewMod)
+-[Poke Lobby](https://github.com/XtraCube/PokemongUs)
+-[Reactor](https://github.com/NuclearPowered/Reactor)
+-[Smol Mod](https://github.com/XtraCube/SmolMod)
+-[Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira)
 
 ## Mod Category - Host Only
 
@@ -72,24 +72,24 @@ Mods:
 
 Mods:
 
-[AUnlocker](https://github.com/astra1dev/AUnlocker)
-[Ban Mod](https://github.com/GianniBart/BanMod)
-[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
+-[AUnlocker](https://github.com/astra1dev/AUnlocker)
+-[Ban Mod](https://github.com/GianniBart/BanMod)
+-[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
 
 ### Endless Host Roles
 
-[AUnlocker](https://github.com/astra1dev/AUnlocker)
-[Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles)
-[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
+-[AUnlocker](https://github.com/astra1dev/AUnlocker)
+-[Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles)
+-[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
 
 ### More Gamemodes
 
-[AUnlocker](https://github.com/astra1dev/AUnlocker)
-[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
-[More Gamemodes](https://github.com/Rabek009/MoreGamemodes)
+-[AUnlocker](https://github.com/astra1dev/AUnlocker)
+-[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
+-[More Gamemodes](https://github.com/Rabek009/MoreGamemodes)
 
 ### Town Of Host Enhanced
 
-[AUnlocker](https://github.com/astra1dev/AUnlocker)
-[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
-[Town Of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced)
+-[AUnlocker](https://github.com/astra1dev/AUnlocker)
+-[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
+-[Town Of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced)
