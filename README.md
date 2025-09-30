@@ -1,6 +1,6 @@
 # Among us Mod Pack
 
-A few Among Us Mod Packs made by me. Note:These mods have not been made by me and the links of the mods which I used are given below along with their description. Credits go to [Astral](https://github.com/astra1dev) for the descriptions from his repo [Awesome Among Us](https://github.com/astra1dev/awesome-among-us). For more info about this Mod Pack click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt).
+A few Among Us Mod Packs made by me. Note:These mods have not been made by me and the links of the mods which I used are given below along with their description. For more info about this repo click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt) and for info of all the mod packs in this repo along with all the mods in them click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt).
 
 
 # Supported Platforms
@@ -15,15 +15,17 @@ A few Among Us Mod Packs made by me. Note:These mods have not been made by me an
 
 ❔ Cracked (rarely works)
 
-❌ iOS & Android(in development for android)
+❌ iOS & Android
 
 ❌ PS & Switch & Xbox
 
 # Supported Game Versions
 
-v2025.5.20(16.0.5) - [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0)
+v2025.9.9 (17.0.0) - [v1.3.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.0)
 
-v2025.3.25(16.0.0) - [v1.1.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.1.0)
+v2025.5.20 (16.0.5) - [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0)
+
+v2025.3.25 (16.0.0) - [v1.1.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.1.0)
 
 v2024.6.18 , v2024.8.13 , v2024.9.4 , 2024.10.29 - [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0)
 
@@ -37,32 +39,57 @@ v2024.3.5 or Below - ❌
 
 # Mods
 
-Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt).
+Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.3.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.0) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt).
 
-This mod packs have been made with the help of the following mods
+These mod packs have been made with the help of the following mods: 
+(tip : if u click on the mods it takes u to the links of the mods)
 
-- [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
-- [Town of Us Mira](https://github.com/AU-Avengers/TOU-Mira) - Town of Us Reactivated, but cleaner using MiraAPI with many improvements
-- [Launchpad](https://github.com/All-Of-Us-Mods/LaunchpadReloaded) - adds a ton of new roles, game modes, and features
-- [PropHunt](https://github.com/ugackMiner53/PropHunt) - play prop hunt.
-- [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - many new roles, settings and custom hats
-- [StellarRoles](https://github.com/Mr-Fluuff/StellarRolesAU) - new roles, settings and custom cosmetics
-- [AllTheRoles](https://github.com/Zeo666/AllTheRoles) - many new roles, modifiers, game modes, map settings, hats and more
-- [NewMod](https://github.com/CallOfCreator/NewMod) - new roles, abilities and game modes
-- [Town of Host](https://github.com/tukasa0001/TownOfHost) - chat commands, roles, add-ons
-- [Town of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - enhanced and improved version of Town of Host
-- [Project Lotus](https://github.com/Lotus-AU/LotusContinued) - unique, beautiful, customizable. adds cosmetics, commands and hotkeys, and various options
-- [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - over 400 roles and 10 game modes
-- [MoreGamemodes](https://github.com/Rabek009/MoreGamemodes) - more game modes
-- [LevelImposter](https://levelimposter.net) - create and play custom maps with ease
-- [Submerged](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
-- [BetterPolus](https://github.com/Brybry16/BetterPolus) - modified and more balanced Polus map
-- [AUnlocker](https://github.com/astra1dev/AUnlocker) - unlock cosmetics, chat, account, and more
-- [Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - unlock the mirrored / flipped skeld map
-- [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
-- [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
-- [DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) - dark mode for the game chat
-- [Mira API](https://github.com/All-Of-Us-Mods/MiraAPI) - easy to use modding API
-- [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
-- [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod 
+## Mod Category - Client Sided
  
+1 mod pack
+
+### Mira API Mods 
+
+Mods:
+
+[AUnlocker](https://github.com/astra1dev/AUnlocker)
+[Chaos Tokens](https://github.com/xChipseq/ChaosTokens)
+[Emojis (in the chat)](https://github.com/WanderingPix/Emojis-in-the-mogus-chat)
+[Launchpad Reloaded](https://github.com/All-Of-Us-Mods/LaunchpadReloaded)
+[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
+[MiraAPI](https://github.com/All-Of-Us-Mods/MiraAPI)
+[New Mod](https://github.com/CallOfCreator/NewMod)
+[Poke Lobby](https://github.com/XtraCube/PokemongUs)
+[Reactor](https://github.com/NuclearPowered/Reactor)
+[Smol Mod](https://github.com/XtraCube/SmolMod)
+[Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira)
+
+## Mod Category - Host Only
+
+5 mod packs 
+
+### Ban Mod
+
+Mods:
+
+[AUnlocker](https://github.com/astra1dev/AUnlocker)
+[Ban Mod](https://github.com/GianniBart/BanMod)
+[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
+
+### Endless Host Roles
+
+[AUnlocker](https://github.com/astra1dev/AUnlocker)
+[Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles)
+[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
+
+### More Gamemodes
+
+[AUnlocker](https://github.com/astra1dev/AUnlocker)
+[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
+[More Gamemodes](https://github.com/Rabek009/MoreGamemodes)
+
+### Town Of Host Enhanced
+
+[AUnlocker](https://github.com/astra1dev/AUnlocker)
+[Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall)
+[Town Of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced)
