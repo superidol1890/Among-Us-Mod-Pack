@@ -2,14 +2,6 @@ using System;
 using BepInEx;
 using BepInEx.Unity.IL2CPP;
 using Il2CppInterop.Runtime.Attributes;
-using Reactor.Localization;
-using Reactor.Localization.Utilities;
-using Reactor.Networking;
-using Reactor.Networking.Attributes;
-using Reactor.Networking.Rpc;
-using Reactor.Utilities;
-using Reactor.Utilities.Attributes;
-using Reactor.Utilities.ImGui;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -17,15 +9,13 @@ namespace ModPack;
 
 [BepInAutoPlugin("gg.Mod.Pack")]
 [BepInProcess("Among Us.exe")]
-[BepInDependency(ReactorPlugin.Id)]
-[ReactorModFlags(ModFlags.RequireOnAllClients)]
 public partial class ModPackPlugin : BasePlugin
 {
     private static StringNames _helloStringName;
 
     public override void Load()
     {
-        ReactorCredits.Register<ModPackPlugin>(ReactorCredits.AlwaysShow);
+        Credits.Register<ModPackPlugin>(Credits.AlwaysShow);
 
         this.AddComponent<ModPackComponent>();
 
@@ -41,7 +31,7 @@ public partial class ModPackPlugin : BasePlugin
 
         public ModPackComponent(IntPtr ptr) : base(ptr)
         {
-            TestWindow = new DragWindow(new Rect(60, 20, 0, 0), "ModPack", () =>
+            TestWindow = new DragWindow(new (60, 20, 0, 0), "ModPack", () =>
             {
                 if (GUILayout.Button("Log CustomStringName"))
                 {
