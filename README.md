@@ -39,7 +39,7 @@ A few Among Us Mod Packs made by me. Note : These mods have not been made by me 
 
 Mods:
 
-- [Ale Ladu Mod](https://github.com/townofus-pl/AleLuduMod)) - v1.0.6
+- [Ale Ladu Mod](https://github.com/townofus-pl/AleLuduMod) - v1.0.6
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
 - [Chaos Tokens](https://github.com/xChipseq/ChaosTokens) - v1.1.3
 - [Emojis (in the chat)](https://github.com/WanderingPix/Emojis-in-the-mogus-chat) - v1.1.0
