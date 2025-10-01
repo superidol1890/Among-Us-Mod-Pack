@@ -1,35 +1,24 @@
 # Among us Mod Pack
 
-A few Among Us Mod Packs made by me. Note:These mods have not been made by me and the links of the mods which I used are given below along with their description. For more info about this repo click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt) and for info of all the mod packs in this repo along with all the mods in them click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt).
-
+A few Among Us Mod Packs made by me. Note : These mods have not been made by me and the links of the mods which I used are given below and full credit goes to the devs of these mods. For more info about this repo click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt) and for info of all the mod packs in this repo along with all the mods in them click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
 
 # Supported Platforms
 
-✅ Steam
-
-✅ Epic Games
-
-✅ Itch.io
-
-✅ Microsoft Store
-
-❔ Cracked (rarely works)
-
-❌ iOS & Android
-
-❌ PS & Switch & Xbox
+- ✅ Steam
+- ✅ Epic Games
+- ✅ Itch.io
+- ✅ Microsoft Store
+- ❔ Cracked (rarely works)
+- ❌ iOS & Android
+- ❌ PS & Switch & Xbox
 
 # Supported Game Versions
 
-v2025.9.9 (17.0.0) - [v1.3.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.0)
-
-v2025.5.20 (16.0.5) - [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0)
-
-v2025.3.25 (16.0.0) - [v1.1.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.1.0)
-
-v2024.6.18 , v2024.8.13 , v2024.9.4 , 2024.10.29 - [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0)
-
-v2024.3.5 or Below - ❌
+- v2025.9.9 (17.0.0) - [v1.3.1](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.1)
+- v2025.5.20 (16.0.5) - [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0)
+- v2025.3.25 (16.0.0) - [v1.1.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.1.0)
+- v2024.6.18 , v2024.8.13 , v2024.9.4 , 2024.10.29 - [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0)
+- v2024.3.5 or Below - ❌
 
 # Download
 
@@ -39,10 +28,8 @@ v2024.3.5 or Below - ❌
 
 # Mods
 
-Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.3.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.0) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt).
-
-These mod packs have been made with the help of the following mods with their links and version used by latest version of this mod pack: 
-(tip : if u click on the mods it takes u to the links of the mods)
+- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.3.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.0) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
+- These mod packs have been made with the help of the following mods with their links and version used by latest version of this mod pack: (tip : if u click on the mods it takes u to the links of the mods)
 
 ## Mod Category - Client Sided
  
@@ -52,6 +39,7 @@ These mod packs have been made with the help of the following mods with their li
 
 Mods:
 
+- [Ale Ladu Mod](https://github.com/townofus-pl/AleLuduMod)) - v1.0.6
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
 - [Chaos Tokens](https://github.com/xChipseq/ChaosTokens) - v1.1.3
 - [Emojis (in the chat)](https://github.com/WanderingPix/Emojis-in-the-mogus-chat) - v1.1.0
@@ -73,7 +61,7 @@ Mods:
 Mods:
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - 1.2.2
-- [Ban Mod](https://github.com/GianniBart/BanMod) - 2.2.4
+- [Ban Mod](https://github.com/GianniBart/BanMod) - 2.2.5
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
 
 ### Endless Host Roles
