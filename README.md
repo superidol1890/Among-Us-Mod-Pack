@@ -1,6 +1,6 @@
 # Among us Mod Pack
 
-A few Among Us Mod Packs made by me. Note : These mods have not been made by me and the links of the mods which I used are given below and full credit goes to the devs of these mods. For more info about this repo click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt) and for info of all the mod packs in this repo along with all the mods in them click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
+These repo contains a few Among Us Mod Packs made by me. Note : These mods have not been made by me and the links of the mods which I used are given below and full credit goes to the devs of these mods. For more info about this repo click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt) and for info of all the mod packs in this repo along with all the mods in them click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
 
 # Supported Platforms
 
@@ -14,7 +14,7 @@ A few Among Us Mod Packs made by me. Note : These mods have not been made by me 
 
 # Supported Game Versions
 
-- v2025.9.9 (17.0.0) - [v1.3.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.0)
+- v2025.9.9 (17.0.0) - [v1.3.2](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.2)
 - v2025.5.20 (16.0.5) - [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0)
 - v2025.3.25 (16.0.0) - [v1.1.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.1.0)
 - v2024.6.18 , v2024.8.13 , v2024.9.4 , 2024.10.29 - [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0)
@@ -28,7 +28,7 @@ A few Among Us Mod Packs made by me. Note : These mods have not been made by me 
 
 # Mods
 
-- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.3.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.0) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
+- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.3.2](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.2) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
 - These mod packs have been made with the help of the following mods with their links and version used by latest version of this mod pack: (tip : if u click on the mods it takes u to the links of the mods)
 
 ## Mod Category - Client Sided
@@ -50,6 +50,7 @@ Mods:
 - [Poke Lobby](https://github.com/XtraCube/PokemongUs) - v1.0.1
 - [Reactor](https://github.com/NuclearPowered/Reactor) - 2.5.0
 - [Smol Mod](https://github.com/XtraCube/SmolMod) - v2.0.2
+- [Syzyfowy Town Of Us](https://github.com/LimeShep/Town-Of-Us) -v7.1.0
 - [Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira) -v1.2.1
 
 ## Mod Category - Host Only
@@ -61,7 +62,7 @@ Mods:
 Mods:
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - 1.2.2
-- [Ban Mod](https://github.com/GianniBart/BanMod) - 2.2.5
+- [Ban Mod](https://github.com/GianniBart/BanMod) - 2.2.7
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
 
 ### Endless Host Roles
