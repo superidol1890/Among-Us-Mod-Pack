@@ -52,7 +52,7 @@ Mods:
 - [Smol Mod](https://github.com/XtraCube/SmolMod) - v2.0.2
 - [Syzyfowy Town Of Us](https://github.com/LimeShep/Town-Of-Us) -v7.1.0
 - [Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira) -v1.2.1
-- [Yanpla Roles](https://github.com/yanpla/yanplaRoles)) -v0.2.1
+- [Yanpla Roles](https://github.com/yanpla/yanplaRoles) -v0.2.1
 
 ## Mod Category - Host Only
 
