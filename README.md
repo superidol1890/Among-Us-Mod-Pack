@@ -52,6 +52,7 @@ Mods:
 - [Smol Mod](https://github.com/XtraCube/SmolMod) - v2.0.2
 - [Syzyfowy Town Of Us](https://github.com/LimeShep/Town-Of-Us) -v7.1.0
 - [Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira) -v1.2.1
+- [Yanpla Roles](https://github.com/yanpla/yanplaRoles)) -v0.2.1
 
 ## Mod Category - Host Only
 
@@ -81,6 +82,6 @@ Mods:
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
-- [Town Of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - v2.4.0 (Beta 3)
+- [Town Of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - v2.4.0
 
 Hope u have fun playing my mod packs :) 
