@@ -14,7 +14,7 @@ A few Among Us Mod Packs made by me. Note : These mods have not been made by me 
 
 # Supported Game Versions
 
-- v2025.9.9 (17.0.0) - [v1.3.1](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.1)
+- v2025.9.9 (17.0.0) - [v1.3.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.0)
 - v2025.5.20 (16.0.5) - [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0)
 - v2025.3.25 (16.0.0) - [v1.1.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.1.0)
 - v2024.6.18 , v2024.8.13 , v2024.9.4 , 2024.10.29 - [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0)
