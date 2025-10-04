@@ -28,7 +28,7 @@ These repo contains a few Among Us Mod Packs made by me. Note : These mods have 
 
 # Mods
 
-- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.3.2](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.2) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
+- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.3.2](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.3) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
 - These mod packs have been made with the help of the following mods with their links and version used by latest version of this mod pack: (tip : if u click on the mods it takes u to the links of the mods)
 
 ## Mod Category - Utils
