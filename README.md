@@ -78,7 +78,7 @@ Mods:
 Mods:
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [Ban Mod](https://github.com/GianniBart/BanMod) - v2.3.1
+- [Ban Mod](https://github.com/GianniBart/BanMod) - v2.3.2
 - [Dark Mode](https://github.com/the-real-techiee/DarkModeAU) - v1.1.5
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
