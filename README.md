@@ -87,7 +87,7 @@ Mods:
 ### Endless Host Roles
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - v6.4.3
+- [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - v6.5.0
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
 
