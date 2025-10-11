@@ -1,7 +1,7 @@
-namespace ModPack;
+namespace AUModPack;
 
 public enum CustomRpcCalls : uint
 {
-    ModPack,
-    MethodRpcModPack,
+    AUModPack,
+    MethodRpcAUModPack,
 }

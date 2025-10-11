@@ -900,7 +900,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "Mod Pack": {
+      "AUModPack": {
         "type": "Project",
         "dependencies": {
           "BepInEx.Unity.IL2CPP": "[6.0.0-be.735, )"
