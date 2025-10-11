@@ -11,6 +11,10 @@ These repo contains a few Among Us Mod Packs made by me. Note : These mods have 
     <img src="https://img.shields.io/badge/license-GPL-yellow.svg?style=plastic&logo=GNU&label=License">
   </a>
 
+    <a href="../../releases">
+    <img src="https://img.shields.io/github/downloads/astra1dev/AUnlocker/total.svg?style=plastic&color=red">
+  </a>
+
 # Supported Platforms
 
 - ✅ Steam
