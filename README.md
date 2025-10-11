@@ -40,9 +40,6 @@ These repo contains a few Among Us Mod Packs made by me. Note : These mods have 
   - **Itch.io:** Open the Itch.io app → Right-click Among Us in your library → `Manage` → `Open folder in Explorer`.
   - **Xbox App:** Open the Xbox app → Right-click Among Us in your library → `Manage` → `Files` → `Browse...`
   - **Microsoft Store:** Check [this support article](https://answers.microsoft.com/en-us/xbox/forum/all/where-can-i-find-the-gamefiles-of-a-game/5cb9a0c3-7948-4316-abc5-f27d1767b932) on how to find and access your Among Us folder.
-- Your game folder should look like this after installation:
-<img src="https://github.com/superidol1890/Among-Us-Mod-Pack/assets/90265231/14226f03-a003-4efc-b27b-6df53fb394d6" width=410 height=240>
-
 - Launch Among Us. The first launch will take **MUCH** longer, so don't worry if you have to wait a few minutes.
 
 # Mods
