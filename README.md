@@ -18,11 +18,19 @@ These repo contains a few Among Us Mod Packs made by me. Note : These mods have 
 
 # Supported Game Versions
 
-- v2025.9.9 (17.0.0) - [v1.3.3](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.3)
-- v2025.5.20 (16.0.5) - [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0)
-- v2025.3.25 (16.0.0) - [v1.1.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.1.0)
-- v2024.6.18 , v2024.8.13 , v2024.9.4 , 2024.10.29 - [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0)
-- v2024.3.5 or Below - ❌
+|    Among Us Version    |          AUModPack Version          |
+|:----------------------:|:-----------------------------------:|
+| `17.0.0` (`2025.9.9`)  | [v1.3.3](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.3) |
+| `16.1.0` (`2025.6.10`) | [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0) |
+| `16.0.5` (`2025.5.20`) | [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0) |
+| `16.0.2` (`2025.3.31`) | [v1.1.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.1.0) |
+| `16.0.0` (`2025.3.25`) | [v1.1.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.1.0) |
+|      `2024.11.26`      | [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0) |
+|      `2024.10.29`      | [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0) |
+|       `2024.9.4`       | [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0) |
+|      `2024.8.13`       | [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0) |
+|      `2024.6.18`       | [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0) |
+| `2024.3.05 or below`   | ❌ |
 
 # Download
 
