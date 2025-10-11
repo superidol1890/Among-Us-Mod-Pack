@@ -2,6 +2,10 @@
 
 These repo contains a few Among Us Mod Packs made by me. Note : These mods have not been made by me and the links of the mods which I used are given below and full credit goes to the devs of these mods. For more info about this repo click [here](https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/About%20this%20mod.txt) and for info of all the mod packs in this repo along with all the mods in them click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
 
+<p align="center">
+  <img src="./icon.png">
+</p>
+
 # Supported Platforms
 
 - ✅ Steam
