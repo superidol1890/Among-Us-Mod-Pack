@@ -6,11 +6,6 @@ These repo contains a few Among Us Mod Packs made by me. Note : These mods have 
   <img src="./icon.png">
 </p>
 
-<p align="center">
-  <a href="https://github.com/superidol1890/Among-Us-Mod-Pack/blob/main/LICENSE.txt">
-    <img src="https://img.shields.io/badge/license-GPL-yellow.svg?style=plastic&logo=GNU&label=License">
-  </a>
-
 # Supported Platforms
 
 - ✅ Steam
