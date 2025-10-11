@@ -8,13 +8,20 @@ These repo contains a few Among Us Mod Packs made by me. Note : These mods have 
 
 # Supported Platforms
 
-- ✅ Steam
-- ✅ Epic Games
-- ✅ Itch.io
-- ✅ Microsoft Store
-- ❔ Cracked (rarely works)
-- ❌ iOS & Android
-- ❌ PS & Switch & Xbox
+Before you download anything, make sure your platform is supported:
+
+|    Among Us Platform   |            Supported                |
+|:----------------------:|:-----------------------------------:|
+|    Steam               |               ✅                   |
+|    Epic Games          |               ✅                   |
+|    itch.io             |               ✅                   |
+|    Microsoft Store     |               ✅                   |
+|    Cracked             |               ❔ (rarely works)    |
+|    Goggle Play         |               ❌                   |
+|    App Store           |               ❌                   |
+|    Nintendo Switch     |               ❌                   |
+|    Playstation         |               ❌                   |
+|    Xbox                |               ❌                   |
 
 # Supported Game Versions
 
