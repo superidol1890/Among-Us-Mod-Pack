@@ -12,7 +12,7 @@ These repo contains a few Among Us Mod Packs made by me. Note : These mods have 
   </a>
 
     <a href="../../releases">
-    <img src="https://img.shields.io/github/downloads/astra1dev/AUnlocker/total.svg?style=plastic&color=red">
+    <img src="https://img.shields.io/github/downloads/superidol1890/Among-Us-Mod-Pack/total.svg?style=plastic&color=red">
   </a>
 
 # Supported Platforms
