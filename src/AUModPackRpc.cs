@@ -5,7 +5,7 @@ using AUModPack.Networking.Rpc;
 namespace AUModPack;
 
 [RegisterCustomRpc((uint) CustomRpcCalls.ModPack)]
-public class ModPackRpc : PlayerCustomRpc<AUModPackPlugin, AUModPackRpc.Data>
+public class AUModPackRpc : PlayerCustomRpc<AUModPackPlugin, AUModPackRpc.Data>
 {
     public AUModPackRpc(AUModPackPlugin plugin, uint id) : base(plugin, id)
     {
