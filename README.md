@@ -36,8 +36,7 @@ Before you download anything, make sure your platform is supported:
 |      `2024.10.29`      | [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0) |
 |       `2024.9.4`       | [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0) |
 |      `2024.8.13`       | [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0) |
-|      `2024.6.18`       | [v1.0.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.0.0) |
-| `2024.3.05 or below`   | ❌ |
+| `2024.6.18`or below    | ❌ |
 
 # Installation
 
