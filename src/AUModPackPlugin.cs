@@ -5,7 +5,7 @@ using Il2CppInterop.Runtime.Attributes;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-namespace ModPack;
+namespace AUModPack;
 
 [BepInAutoPlugin("gg.AUModPack")]
 [BepInProcess("Among Us.exe")]
@@ -20,7 +20,7 @@ public partial class AUModPackPlugin : BasePlugin
         this.AddComponent<AUModPackComponent>();
 
         _helloStringName = CustomStringName.CreateAndRegister("Hello!");
-        LocalizationManager.Register(new ExampleLocalizationProvider());
+        LocalizationManager.Register(new AUModPackLocalizationProvider());
     }
 
     [RegisterInIl2Cpp]
@@ -31,7 +31,7 @@ public partial class AUModPackPlugin : BasePlugin
 
         public AUModPackComponent(IntPtr ptr) : base(ptr)
         {
-            TestWindow = new DragWindow(new (60, 20, 0, 0), "ModPack", () =>
+            TestWindow = new DragWindow(new (60, 20, 0, 0), "AUModPack", () =>
             {
                 if (GUILayout.Button("Log CustomStringName"))
                 {
@@ -48,9 +48,9 @@ public partial class AUModPackPlugin : BasePlugin
                     if (GUILayout.Button("Send AUModPackRpc"))
                     {
                         var playerName = PlayerControl.LocalPlayer.Data.PlayerName;
-                        Rpc<ModPackRpc>.Instance.Send(new ModPackRpc.Data($"Send: from {playerName}"), ackCallback: () =>
+                        Rpc<AUModPackRpc>.Instance.Send(new AUModPackRpc.Data($"Send: from {playerName}"), ackCallback: () =>
                         {
-                            Logger<ModPackPlugin>.Info("Got an acknowledgement for AUModPack rpc");
+                            Logger<AUModPackPlugin>.Info("Got an acknowledgement for AUModPack rpc");
                         });
 
                         if (!AmongUsClient.Instance.AmHost)
@@ -84,7 +84,7 @@ public partial class AUModPackPlugin : BasePlugin
         }
     }
 
-    [MethodRpc((uint) CustomRpcCalls.MethodRpcExample)]
+    [MethodRpc((uint) CustomRpcCalls.AUModPackMethodRpc)]
     public static void RpcSay(PlayerControl player, string text, float number, PlayerControl testPlayer)
     {
         Logger<AUModPackPlugin>.Info($"{player.Data.PlayerName} text: {text} number: {number} testPlayer: {testPlayer.NetId}");
