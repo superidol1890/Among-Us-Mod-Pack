@@ -49,7 +49,7 @@ Before you download anything, make sure your platform is supported:
 
 # Mods
 
-- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.3.4](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.4) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
+- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.3.5](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.5) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
 - These mod packs have been made with the help of the following mods with their links and version used by latest version of this mod pack: (tip : if u click on the mods it takes u to the links of the mods)
 
 ## Mod Category - Utils
@@ -97,11 +97,11 @@ Mods:
 Mods:
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [Ban Mod](https://github.com/GianniBart/BanMod) - v2.3.4
+- [Ban Mod](https://github.com/GianniBart/BanMod) - v2.3.5
 - [Dark Mode](https://github.com/the-real-techiee/DarkModeAU) - v1.1.5
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
-- [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT)  - v1.3.0
+- [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT)  - v1.4.0
 
 ### Endless Host Roles
 
@@ -130,7 +130,7 @@ Mods:
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
 - [Project Lotus](https://github.com/Lotus-AU/LotusContinued) - v1.5.0
-- [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT)  - v1.3.0
+- [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT)  - v1.4.0
 - [Vent Framework](https://github.com/Lotus-AU/VentFramework-Continued) - v1.5.0
 
 ### Town Of Host
@@ -141,8 +141,8 @@ Mods:
 - [Dark Mode](https://github.com/the-real-techiee/DarkModeAU) - v1.1.5
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
-- [Town Of Host](https://github.com/tukasa0001/TownOfHost) - v5.1.13
-- [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT)  - v1.3.0
+- [Town Of Host](https://github.com/tukasa0001/TownOfHost) - v5.1.14
+- [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT)  - v1.4.0
 
 ### Town Of Host Enhanced
 
