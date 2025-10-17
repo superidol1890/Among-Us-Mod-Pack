@@ -27,6 +27,7 @@ Before you download anything, make sure your platform is supported:
 
 |    Among Us Version    |          AUModPack Version          |
 |:----------------------:|:-----------------------------------:|
+| `17.0.0` (`2025.9.9`)  | [v1.3.6 beta](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.6) |
 | `17.0.0` (`2025.9.9`)  | [v1.3.4](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.4) |
 | `16.1.0` (`2025.6.10`) | [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0) |
 | `16.0.5` (`2025.5.20`) | [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0) |
@@ -81,11 +82,11 @@ Mods:
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Launchpad Reloaded](https://github.com/All-Of-Us-Mods/LaunchpadReloaded) - v0.3.7
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
-- [MiraAPI](https://github.com/All-Of-Us-Mods/MiraAPI) - v0.3.1
+- [MiraAPI](https://github.com/All-Of-Us-Mods/MiraAPI) - v0.3.3
 - [New Mod](https://github.com/CallOfCreator/NewMod) - v1.2.7
 - [Poke Lobby](https://github.com/XtraCube/PokemongUs) - v1.0.1
 - [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
-- [Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira) -v1.2.1
+- [Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira) -v1.3.1
 - [Yanpla Roles](https://github.com/yanpla/yanplaRoles) - v0.2.1
 
 ## Mod Category - Host Only
@@ -97,7 +98,7 @@ Mods:
 Mods:
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [Ban Mod](https://github.com/GianniBart/BanMod) - v2.3.5
+- [Ban Mod](https://github.com/GianniBart/BanMod) - v2.3.7
 - [Dark Mode](https://github.com/the-real-techiee/DarkModeAU) - v1.1.5
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
@@ -108,7 +109,7 @@ Mods:
 Mods:
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - v6.5.0
+- [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - v6.6.1
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
 
