@@ -28,7 +28,7 @@ Before you download anything, make sure your platform is supported:
 |    Among Us Version    |          AUModPack Version          |
 |:----------------------:|:-----------------------------------:|
 | `17.0.0` (`2025.9.9`)  | [v1.3.6 beta](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.6) |
-| `17.0.0` (`2025.9.9`)  | [v1.3.4](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.4) |
+| `17.0.0` (`2025.9.9`)  | [v1.3.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.0) |
 | `16.1.0` (`2025.6.10`) | [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0) |
 | `16.0.5` (`2025.5.20`) | [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0) |
 | `16.0.2` (`2025.3.31`) | [v1.1.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.1.0) |
