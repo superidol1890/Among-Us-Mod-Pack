@@ -1,4 +1,4 @@
-# Among us Mod Pack
+# Among Us Mod Pack
 
 These repo contains a few Among Us Mod Packs made by me. Note : These mods have not been made by me and the links of the mods which I used are given below and full credit goes to the devs of these mods.For info of all the mod packs in this repo along with all the mods in them click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
 
