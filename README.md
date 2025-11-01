@@ -27,7 +27,7 @@ Before you download anything, make sure your platform is supported:
 
 |    Among Us Version    |          AUModPack Version          |
 |:----------------------:|:-----------------------------------:|
-| `17.0.1` (`2025.10.14`)  | [v1.3.6 beta](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.6) |
+| `17.0.1` (`2025.10.14`)| [v1.4.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.4.0) |
 | `17.0.0` (`2025.9.9`)  | [v1.3.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.0) |
 | `16.1.0` (`2025.6.10`) | [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0) |
 | `16.0.5` (`2025.5.20`) | [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0) |
@@ -50,8 +50,8 @@ Before you download anything, make sure your platform is supported:
 
 # Mods
 
-- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.3.5](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.5) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
-- These mod packs have been made with the help of the following mods with their links and version used by latest version of this mod pack: (tip : if u click on the mods it takes u to the links of the mods)
+- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.4.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.4.0) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
+- These mod packs have been made with the help of the following mods with their links and version used by latest version of this mod pack: (tip : if u click on the name of mods it takes u to the links of the mods)
 
 ## Mod Category - Utils
 
@@ -60,10 +60,13 @@ Before you download anything, make sure your platform is supported:
 ### Among Us Mod Pack
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [BetterPolus](https://github.com/Brybry16/BetterPolus) - v1.2.2
-- [Dark Mode](https://github.com/the-real-techiee/DarkModeAU) - v1.1.5
+- [BetterPolus](https://github.com/superidol1890/BetterPolusReloaded) - v2.0.0
+- [Dark Mode](https://github.com/superidol1890/DarkModeAUReloaded) - v2.0.0
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
+- [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
+- [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
+- [Submerged](https://github.com/SubmergedAmongUs/Submerged) - v2025.10.22
 
 ## Mod Category - Client Sided
  
@@ -75,9 +78,9 @@ Mods:
 
 - [Ale Ladu Mod](https://github.com/townofus-pl/AleLuduMod) - v1.0.6
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [BetterPolus](https://github.com/Brybry16/BetterPolus) - v1.2.2
+- [BetterPolus](https://github.com/superidol1890/BetterPolusReloaded) - v2.0.0
 - [Chaos Tokens](https://github.com/xChipseq/ChaosTokens) - v1.1.3
-- [Dark Mode](https://github.com/the-real-techiee/DarkModeAU) - v1.1.5
+- [Dark Mode](https://github.com/superidol1890/DarkModeAUReloaded) - v2.0.0
 - [Emojis (in the chat)](https://github.com/WanderingPix/Emojis-in-the-mogus-chat) - v1.1.0
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Launchpad Reloaded](https://github.com/All-Of-Us-Mods/LaunchpadReloaded) - v0.3.7
@@ -85,7 +88,9 @@ Mods:
 - [MiraAPI](https://github.com/All-Of-Us-Mods/MiraAPI) - v0.3.3
 - [New Mod](https://github.com/CallOfCreator/NewMod) - v1.2.7
 - [Poke Lobby](https://github.com/XtraCube/PokemongUs) - v1.0.1
+- [Prop Hunt](https://github.com/superidol1890/PropHuntReloaded) - v2.0.0
 - [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
+- [Submerged](https://github.com/SubmergedAmongUs/Submerged) - v2025.10.22
 - [Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira) -v1.3.1
 - [Yanpla Roles](https://github.com/yanpla/yanplaRoles) - v0.2.1
 
@@ -99,9 +104,11 @@ Mods:
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
 - [Ban Mod](https://github.com/GianniBart/BanMod) - v2.3.7
-- [Dark Mode](https://github.com/the-real-techiee/DarkModeAU) - v1.1.5
+- [Dark Mode](https://github.com/superidol1890/DarkModeAUReloaded) - v2.0.0
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
+- [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
+- [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
 - [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT)  - v1.4.0
 
 ### Endless Host Roles
@@ -112,6 +119,8 @@ Mods:
 - [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - v6.6.1
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
+- [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
+- [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
 
 ### More Gamemodes
 
@@ -121,6 +130,8 @@ Mods:
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
 - [More Gamemodes](https://github.com/Rabek009/MoreGamemodes) - v2.1.1
+- [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
+- [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
 - [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT)  - v1.3.0
 
 ### Project Lotus
@@ -131,6 +142,8 @@ Mods:
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
 - [Project Lotus](https://github.com/Lotus-AU/LotusContinued) - v1.5.0
+- [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
+- [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
 - [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT)  - v1.4.0
 - [Vent Framework](https://github.com/Lotus-AU/VentFramework-Continued) - v1.5.0
 
@@ -139,9 +152,11 @@ Mods:
 Mods:
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [Dark Mode](https://github.com/the-real-techiee/DarkModeAU) - v1.1.5
+- [Dark Mode](https://github.com/superidol1890/DarkModeAUReloaded) - v2.0.0
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
+- [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
+- [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
 - [Town Of Host](https://github.com/tukasa0001/TownOfHost) - v5.1.14
 - [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT)  - v1.4.0
 
@@ -152,6 +167,8 @@ Mods:
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
+- [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
+- [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
 - [Town Of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - v2.4.0
 
 Hope u have fun playing my mod packs :) 
