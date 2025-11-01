@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <Version>1.4.0</Version>
+        <Description>A repo with many Among Us Mod Packs made by me (the mods aren't made by me tho)</Description>
+        <Authors>Super Idol</Authors>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\src\AUModPack.csproj" Private="false" />
+    </ItemGroup>
+
+</Project>
