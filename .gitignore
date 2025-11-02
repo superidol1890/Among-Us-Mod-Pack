@@ -3,6 +3,7 @@
 .vs/
 obj/
 bin/
+.qodo/
 
 *.user
 *.lock.json
