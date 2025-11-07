@@ -172,3 +172,7 @@ Mods:
 - [Town Of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - v2.4.0
 
 Hope u have fun playing my mod packs :) 
+
+> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or
+> otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. ©
+> Innersloth LLC.
