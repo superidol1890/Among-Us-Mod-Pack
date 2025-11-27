@@ -27,6 +27,7 @@ Before you download anything, make sure your platform is supported:
 
 |    Among Us Version    |          AUModPack Version          |
 |:----------------------:|:-----------------------------------:|
+| `17.1.0` (`2025.11.18`)| [v1.5.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.5.0) |
 | `17.0.1` (`2025.10.14`)| [v1.4.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.4.0) |
 | `17.0.0` (`2025.9.9`)  | [v1.3.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.0) |
 | `16.1.0` (`2025.6.10`) | [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0) |
@@ -60,13 +61,14 @@ Before you download anything, make sure your platform is supported:
 ### Among Us Mod Pack
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [BetterPolus](https://github.com/superidol1890/BetterPolusReloaded) - v2.0.0
+- [BetterPolus](https://github.com/superidol1890/BetterPolusReloaded) - v2.0.2
 - [Dark Mode](https://github.com/superidol1890/DarkModeAUReloaded) - v2.0.0
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
+- [Move Mod](https://github.com/OvernightAU/MoveMod) - v1.0.0
 - [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
 - [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
-- [Submerged](https://github.com/SubmergedAmongUs/Submerged) - v2025.10.22
+- [Submerged](https://github.com/SubmergedAmongUs/Submerged) - v2025.11.20
 
 ## Mod Category - Client Sided
  
@@ -78,19 +80,20 @@ Mods:
 
 - [Ale Ladu Mod](https://github.com/townofus-pl/AleLuduMod) - v1.0.6
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [BetterPolus](https://github.com/superidol1890/BetterPolusReloaded) - v2.0.0
+- [BetterPolus](https://github.com/superidol1890/BetterPolusReloaded) - v2.0.2
 - [Chaos Tokens](https://github.com/xChipseq/ChaosTokens) - v1.1.3
 - [Dark Mode](https://github.com/superidol1890/DarkModeAUReloaded) - v2.0.0
 - [Emojis (in the chat)](https://github.com/WanderingPix/Emojis-in-the-mogus-chat) - v1.1.0
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Launchpad Reloaded](https://github.com/All-Of-Us-Mods/LaunchpadReloaded) - v0.3.7
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
+- [Move Mod](https://github.com/OvernightAU/MoveMod) - v1.0.0
 - [MiraAPI](https://github.com/All-Of-Us-Mods/MiraAPI) - v0.3.3
-- [New Mod](https://github.com/CallOfCreator/NewMod) - v1.2.7
+- [New Mod](https://github.com/CallOfCreator/NewMod) - v1.2.8
 - [Poke Lobby](https://github.com/XtraCube/PokemongUs) - v1.0.1
-- [Prop Hunt](https://github.com/superidol1890/PropHuntReloaded) - v2.0.0
+- [Prop Hunt](https://github.com/superidol1890/PropHuntReloaded) - v2025.10.19
 - [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
-- [Submerged](https://github.com/SubmergedAmongUs/Submerged) - v2025.10.22
+- [Submerged](https://github.com/SubmergedAmongUs/Submerged) - v2025.11.20
 - [Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira) -v1.3.1
 - [Yanpla Roles](https://github.com/yanpla/yanplaRoles) - v0.2.1
 
@@ -98,27 +101,15 @@ Mods:
 
 6 mod packs 
 
-### Ban Mod
-
-Mods:
-
-- [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [Ban Mod](https://github.com/GianniBart/BanMod) - v2.3.7
-- [Dark Mode](https://github.com/superidol1890/DarkModeAUReloaded) - v2.0.0
-- [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
-- [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
-- [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
-- [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
-- [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT)  - v1.4.0
-
 ### Endless Host Roles
 
 Mods:
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - v6.6.1
+- [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - v6.8.4
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
+- [Move Mod](https://github.com/OvernightAU/MoveMod) - v1.0.0
 - [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
 - [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
 
@@ -129,6 +120,7 @@ Mods:
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
+- [Move Mod](https://github.com/OvernightAU/MoveMod) - v1.0.0
 - [More Gamemodes](https://github.com/Rabek009/MoreGamemodes) - v2.1.1
 - [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
 - [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
@@ -141,6 +133,7 @@ Mods:
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
+- [Move Mod](https://github.com/OvernightAU/MoveMod) - v1.0.0
 - [Project Lotus](https://github.com/Lotus-AU/LotusContinued) - v1.5.0
 - [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
 - [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
@@ -155,6 +148,7 @@ Mods:
 - [Dark Mode](https://github.com/superidol1890/DarkModeAUReloaded) - v2.0.0
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
+- [Move Mod](https://github.com/OvernightAU/MoveMod) - v1.0.0
 - [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
 - [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
 - [Town Of Host](https://github.com/tukasa0001/TownOfHost) - v5.1.14
@@ -167,6 +161,7 @@ Mods:
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
+- [Move Mod](https://github.com/OvernightAU/MoveMod) - v1.0.0
 - [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
 - [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
 - [Town Of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - v2.4.0
