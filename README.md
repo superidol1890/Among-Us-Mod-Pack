@@ -51,7 +51,7 @@ Before you download anything, make sure your platform is supported:
 
 # Mods
 
-- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.4.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.5.0) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
+- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.5.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.5.0) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
 - These mod packs have been made with the help of the following mods with their links and version used by latest version of this mod pack: (tip : if u click on the name of mods it takes u to the links of the mods)
 
 ## Mod Category - Utils
