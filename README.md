@@ -94,7 +94,7 @@ Mods:
 - [Prop Hunt](https://github.com/superidol1890/PropHuntReloaded) - v2025.10.19
 - [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
 - [Submerged](https://github.com/SubmergedAmongUs/Submerged) - v2025.11.20
-- [Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira) -v1.3.1
+- [Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira) -v1.4.0
 - [Yanpla Roles](https://github.com/yanpla/yanplaRoles) - v0.2.1
 
 ## Mod Category - Host Only
