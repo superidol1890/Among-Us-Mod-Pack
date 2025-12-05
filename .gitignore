@@ -1,9 +1,0 @@
-.git/
-.idea/
-.vs/
-obj/
-bin/
-.qodo/
-
-*.user
-*.lock.json
