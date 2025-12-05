@@ -164,7 +164,7 @@ Mods:
 - [Move Mod](https://github.com/OvernightAU/MoveMod) - v1.0.0
 - [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
 - [Stereo](https://github.com/superidol1890/StereoReloaded) - v2.0.0
-- [Town Of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - v2.4.0
+- [Town Of Host Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - v2.4.1
 
 Hope u have fun playing my mod packs :) 
 
