@@ -27,7 +27,7 @@ Before you download anything, make sure your platform is supported:
 
 |    Among Us Version    |          AUModPack Version          |
 |:----------------------:|:-----------------------------------:|
-| `17.1.0` (`2025.11.18`)| [v1.5.1](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.5.1) |
+| `17.1.0` (`2025.11.18`)| [v1.5.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.5.0) |
 | `17.0.1` (`2025.10.14`)| [v1.4.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.4.0) |
 | `17.0.0` (`2025.9.9`)  | [v1.3.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.3.0) |
 | `16.1.0` (`2025.6.10`) | [v1.2.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.2.0) |
@@ -51,7 +51,7 @@ Before you download anything, make sure your platform is supported:
 
 # Mods
 
-- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.5.1](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.5.1) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
+- Note : If u want to see the list of all the mods in the mod packs for the latest version [v1.5.0](https://github.com/superidol1890/Among-Us-Mod-Pack/releases/tag/v1.5.0) then click [here](https://github.com/superidol1890/Among-Us-Mod-Pack#Mods).
 - These mod packs have been made with the help of the following mods with their links and version used by latest version of this mod pack: (tip : if u click on the name of mods it takes u to the links of the mods)
 
 ## Mod Category - Util
