@@ -90,14 +90,14 @@ Mods:
 - [Launchpad Reloaded](https://github.com/All-Of-Us-Mods/LaunchpadReloaded) - v0.3.7
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
 - [Move Mod](https://github.com/OvernightAU/MoveMod) - v1.0.0
-- [MiraAPI](https://github.com/All-Of-Us-Mods/MiraAPI) - v0.3.3
+- [MiraAPI](https://github.com/All-Of-Us-Mods/MiraAPI) - v0.3.4
 - [New Mod](https://github.com/CallOfCreator/NewMod) - v1.2.8
 - [Poke Lobby](https://github.com/XtraCube/PokemongUs) - v1.0.1
 - [Prop Hunt](https://github.com/superidol1890/PropHuntReloaded) - v2025.10.19
 - [Reactor](https://github.com/NuclearPowered/Reactor) - v2.5.0
 - [String Name Utils](https://github.com/xChipseq/StringNameUtils) - v1.0.0
 - [Submerged](https://github.com/SubmergedAmongUs/Submerged) - v2025.11.20
-- [Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira) -v1.4.0
+- [Town Of Us Mira](https://github.com/AU-Avengers/TOU-Mira) -v1.4.1
 - [Yanpla Roles](https://github.com/yanpla/yanplaRoles) - v0.2.1
 
 ## Mod Category - Host Only
