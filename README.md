@@ -109,7 +109,7 @@ Mods:
 Mods:
 
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - v1.2.2
-- [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - v7.0.1
+- [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles) - v7.0.2
 - [Game Logger](https://github.com/whichtwix/GameLogger) - v1.2.0
 - [Mini Outfit Exporter](https://github.com/miniduikboot/Mini.OutfitExporter) - N/A
 - [Mini Region Install](https://github.com/miniduikboot/Mini.RegionInstall) - v1.2.0
